@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Odev1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Enter_Your_Name" />
+    <string name="increment">INCREMENT</string>
+    <string name="decrement">DECREMENT</string>
+</resources>
